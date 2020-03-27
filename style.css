@@ -1,0 +1,23 @@
+ body{background-color: lightyellow;
+ }
+
+
+ h1{text-align left;
+ 	color: lightsteelblue;
+ }
+
+
+
+ 	p{color: blue;
+ 	}
+
+ 	h2{text-align: left;
+ 		color: blue;
+ 	}
+
+ 		img {border-radius: 50%
+ 			widht: 200px;
+ 			height: 200px;
+ 		display: block;
+ 		margin-left: auto;
+ 		margin-right: auto;}
